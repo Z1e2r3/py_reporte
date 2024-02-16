@@ -1,0 +1,7 @@
+<Inicio>
+
+1. Se recopila información de las ventas de cada Oficina.
+
+2. Se filtran los datos para quedarse solo con la información de la Oficina de Lima - Centro.
+
+3. Se hace el análisis respectivo para ver cómo se ha comportado dicha Oficina en el año (se analiza la frecuencia, severidad, etc.)

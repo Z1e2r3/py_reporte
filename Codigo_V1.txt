@@ -1,0 +1,3 @@
+<Inicio>
+
+1. Se recopila información de las ventas de cada Oficina

@@ -1,0 +1,5 @@
+<Inicio>
+
+1. Se recopila información de las ventas de cada Oficina.
+
+2. Se filtran los datos para quedarse solo con la información de la Oficina de Lima - Centro.
